@@ -7,10 +7,8 @@ These notebooks are currently in this repository:
 
 - [Python for Raster Analysis](PythonforRasterAnalysis.ipynb)
 - [Raster Time Series Interpolation](RasterTimeseriesInterpolation.ipynb)
-- [Crop Classification](CropClassification.ipynb)
 
 The repositories are all just a playground, so they are constantly work in progress and there might be more elegant ways of using the problems, so don't be to harsh on judgemtns and please let me know if you have ideas on how to improve the scripts ;)
-
 
 
 
@@ -40,3 +38,8 @@ For further spatial analysis, however,  the actual raster mask of snow cover may
 <p align="center">
   <img width="600"  src="plots/interpolation_raster.jpg">
 </p>
+
+
+Further Earth Observation Applications can be found here:
+
+- [Crop Classification](https://github.com/RomanPCML/EarthObservation)
